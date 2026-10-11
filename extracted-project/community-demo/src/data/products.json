@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "id": "wrap-dress", "name": "Wrap Midi Dress", "category": "Dresses", "price": 38, "tint": 0, "isNew": true, "sizes": ["S", "M", "L", "XL"], "colours": ["Navy", "Blush"], "description": "Soft wrap front, mid-calf length. Works from the office to Sunday lunch.", "image": "" },
+    { "id": "linen-shirt", "name": "Linen Button Shirt", "category": "Tops", "price": 24, "tint": 1, "isNew": true, "sizes": ["S", "M", "L"], "colours": ["White", "Sand"], "description": "Relaxed fit linen blend that keeps cool in summer.", "image": "" },
+    { "id": "block-heels", "name": "Block Heel Sandals", "category": "Shoes", "price": 45, "tint": 2, "isNew": true, "sizes": ["36", "37", "38", "39", "40"], "colours": ["Black", "Tan"], "description": "Cushioned insole and a 6 cm heel you can walk in all day.", "image": "" },
+    { "id": "crossbody", "name": "Crossbody Bag", "category": "Bags", "price": 32, "tint": 3, "isNew": true, "sizes": ["One size"], "colours": ["Green", "Black"], "description": "Fits a phone, wallet and keys, with an adjustable strap.", "image": "" },
+    { "id": "satin-skirt", "name": "Satin Slip Skirt", "category": "Dresses", "price": 28, "tint": 4, "isNew": false, "sizes": ["S", "M", "L"], "colours": ["Plum", "Champagne"], "description": "Falls to the calf with an elastic waist.", "image": "" },
+    { "id": "rib-top", "name": "Ribbed Knit Top", "category": "Tops", "price": 16, "tint": 5, "isNew": false, "sizes": ["S", "M", "L", "XL"], "colours": ["Yellow", "Grey"], "description": "Stretch ribbed knit that layers under a blazer.", "image": "" },
+    { "id": "white-sneaker", "name": "Everyday Sneakers", "category": "Shoes", "price": 39, "tint": 0, "isNew": false, "sizes": ["36", "37", "38", "39", "40", "41"], "colours": ["White", "Grey"], "description": "Clean leather-look upper with a flexible sole.", "image": "" },
+    { "id": "tote", "name": "Structured Tote", "category": "Bags", "price": 55, "tint": 1, "isNew": false, "sizes": ["One size"], "colours": ["Tan", "Black"], "description": "Holds a laptop and lunch. Zip top and inner pocket.", "image": "" },
+    { "id": "lip-set", "name": "Matte Lip Trio", "category": "Beauty", "price": 12, "tint": 4, "isNew": false, "sizes": ["Set"], "colours": ["Rose", "Berry"], "description": "Three long-wear shades in one gift box.", "image": "" },
+    { "id": "body-oil", "name": "Shimmer Body Oil", "category": "Beauty", "price": 14, "tint": 5, "isNew": false, "sizes": ["100 ml"], "colours": ["Gold"], "description": "Lightweight oil with a subtle glow. Price check with store.", "image": "" },
+    { "id": "hoops", "name": "Gold Tone Hoops", "category": "Jewellery", "price": 9, "tint": 2, "isNew": false, "sizes": ["Medium"], "colours": ["Gold", "Silver"], "description": "Lightweight hoops, nickel free.", "image": "" },
+    { "id": "layer-chain", "name": "Layered Chain Necklace", "category": "Jewellery", "price": 15, "tint": 0, "isNew": false, "sizes": ["One size"], "colours": ["Gold", "Silver"], "description": "Three fine chains joined at one clasp.", "image": "" }
+  ]
+}

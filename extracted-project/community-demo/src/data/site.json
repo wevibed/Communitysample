@@ -1,0 +1,166 @@
+{
+  "status": "demo",
+  "business": {
+    "name": "Sample Boutique",
+    "shortName": "Sample Boutique",
+    "tagline": "Fashion and lifestyle store in Harare",
+    "description": "Sample fashion and lifestyle store: dresses, shoes, bags, beauty and jewellery. Check the price and order on WhatsApp.",
+    "city": "Harare",
+    "sampleNotice": "Sample business. Names, prices, photos and contact details are placeholders for a demo layout."
+  },
+  "contact": {
+    "whatsapp": "263770000000",
+    "display": "+263 77 000 0000"
+  },
+  "brand": {
+    "accent": "#2B3FD8",
+    "logo": "",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Sans:wght@400;500;700&display=swap"
+  },
+  "seo": {
+    "domain": "sample-boutique.pages.dev",
+    "ogImage": ""
+  },
+  "currency": {
+    "symbol": "$",
+    "suffix": " (sample)",
+    "ask": "Ask for price"
+  },
+  "nav": {
+    "links": [
+      {
+        "label": "New in",
+        "href": "#new"
+      },
+      {
+        "label": "Collections",
+        "href": "#collections"
+      },
+      {
+        "label": "Shop",
+        "href": "#shop"
+      },
+      {
+        "label": "Join us",
+        "href": "#join"
+      },
+      {
+        "label": "Visit us",
+        "href": "#visit"
+      }
+    ],
+    "cta": "WhatsApp",
+    "message": "Hi {shop}, I saw your website and have a question."
+  },
+  "hero": {
+    "eyebrow": "Spring / Summer collection",
+    "headline": "Dress for the week you actually have.",
+    "subheadline": "Dresses, shoes, bags and beauty picks from one Harare store. Check the price and order on WhatsApp.",
+    "image": "",
+    "imageAlt": "",
+    "primaryCta": {
+      "label": "Shop the collection",
+      "href": "#shop"
+    },
+    "secondaryCta": {
+      "label": "Visit the store",
+      "href": "#visit"
+    }
+  },
+  "newIn": {
+    "title": "New arrivals",
+    "linkLabel": "See everything",
+    "badge": "New"
+  },
+  "collections": [
+    {
+      "label": "Collection",
+      "title": "Work week",
+      "category": "Dresses"
+    },
+    {
+      "label": "Collection",
+      "title": "Weekend out",
+      "category": "Tops"
+    },
+    {
+      "label": "Collection",
+      "title": "Gifts under $30",
+      "category": "Beauty"
+    }
+  ],
+  "shop": {
+    "title": "Shop",
+    "searchLabel": "Search products",
+    "searchPlaceholder": "Search dresses, shoes, bags",
+    "categories": [
+      "All",
+      "Dresses",
+      "Tops",
+      "Shoes",
+      "Bags",
+      "Beauty",
+      "Jewellery"
+    ],
+    "countOne": "product",
+    "countMany": "products",
+    "countIn": "in",
+    "empty": "Nothing matches that search. Try another word or ask us on WhatsApp.",
+    "emptyCta": "Ask on WhatsApp",
+    "emptyMessage": "Hi {shop}, I am looking for something I could not find on your website."
+  },
+  "product": {
+    "sizeLabel": "Size",
+    "colourLabel": "Colour",
+    "cta": "Order on WhatsApp",
+    "note": "Opens a chat with the product, size and colour already filled in. Demo number only.",
+    "dialogLabel": "Product details",
+    "message": "Hi {shop}, I would like the {product} ({colour}, size {size}) at {price}. Is it available?"
+  },
+  "visit": {
+    "title": "Visit the store",
+    "address": "Sample Boutique, sample street address, Harare. Parking and mall details added for each client.",
+    "details": [
+      {
+        "label": "Hours",
+        "value": "Mon to Sat, 9:00 to 17:00 (sample)"
+      },
+      {
+        "label": "WhatsApp",
+        "value": "+263 77 000 0000 (demo)"
+      },
+      {
+        "label": "Delivery",
+        "value": "Harare deliveries, fee confirmed on WhatsApp (sample)"
+      },
+      {
+        "label": "Collection",
+        "value": "Collect in store, ready same day (sample)"
+      }
+    ]
+  },
+  "footer": {
+    "left": "Sample Boutique. Demo layout: names, prices, photos and contact details are placeholders.",
+    "right": "Built by WeVibed"
+  },
+  "community": {
+    "enabled": true,
+    "mode": "demo",
+    "businessId": "sample-boutique",
+    "countryCode": "263",
+    "eyebrow": "Community",
+    "title": "Be first to know about new stock and offers",
+    "body": "Join our WhatsApp list. We message when new stock lands, when favourites are back, and when there is a special offer. No spam, and you can leave whenever you like.",
+    "perks": [
+      "New arrivals before they hit the shelves",
+      "Restock alerts on sold-out favourites",
+      "Members-only offers"
+    ],
+    "consentText": "I agree to receive product updates and promotional messages from this business on WhatsApp. I can opt out at any time.",
+    "submitLabel": "Join the community",
+    "privacyNote": "We only use your number to send what you agreed to. Reply STOP at any time to leave. Demo: this version saves to your own browser only.",
+    "successTitle": "You are in!",
+    "successRepeatTitle": "You are already on the list",
+    "successBody": "Thank you for joining. Updates will arrive on WhatsApp once messaging is switched on for this business."
+  }
+}

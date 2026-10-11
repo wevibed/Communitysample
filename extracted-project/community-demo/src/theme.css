@@ -1,0 +1,32 @@
+/* Fashion & Lifestyle theme tokens. base.css reads these. */
+:root {
+  --page: #ECEEFF;
+  --ink: #14161A;
+  --muted: #3B404A;
+  --accent: #2B3FD8;
+  --accent-ink: #FFFFFF;
+  --glass-bg: rgba(255, 255, 255, .55);
+  --glass-border: rgba(255, 255, 255, .75);
+  --glass-shadow: 0 10px 40px rgba(43, 63, 216, .13);
+  --glass-dark-bg: rgba(20, 22, 40, .38);
+  --glass-strong-bg: rgba(255, 255, 255, .82);
+  --scrim: linear-gradient(to top, rgba(10, 10, 30, .72), rgba(10, 10, 30, .1) 60%);
+  --hero-gradient: radial-gradient(circle at 20% 30%, #7C8CFF 0, transparent 45%), radial-gradient(circle at 80% 20%, #FF8A6B 0, transparent 42%), linear-gradient(135deg, #2B3FD8, #7A2FA8 60%, #FF7A59);
+  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --blob-opacity: .75;
+  --blob-2: #FFB199;
+  --blob-3: #8BE6CB;
+  --tint-0: #C9D2FF;
+  --tint-1: #FFD3C2;
+  --tint-2: #2A2D3A;
+  --tint-3: #D8F0DC;
+  --tint-4: #F3D6F5;
+  --tint-5: #FFF1B8;
+}
+.blobs span:nth-child(1) { background: #8F9CFF; }
+.tint-2 { color: #fff; }
+h1, h2, h3 { letter-spacing: -0.02em; }
+.card-lift { transition: transform .2s ease; }
+.card-lift:hover { transform: translateY(-4px); }
+@media (prefers-reduced-motion: reduce) { .card-lift { transition: none; } .card-lift:hover { transform: none; } }
